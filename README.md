@@ -1,7 +1,6 @@
 # Hi, I'm Jonathan! 👋🏾
 
-
-##I'm a self taught software developer, with a passion and focus on frontend development.
+I'm a self taught software developer, with a passion and focus on frontend development.
 
 
 📫 How to reach me jonathanword.dev@gmail.com
